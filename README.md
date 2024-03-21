@@ -159,8 +159,10 @@ PUTCHAR_PROTOTYPE
 
  
  ## Circuit board :
+ ![310941770-9f88dfcc-721e-4935-90b2-1652b03783aa](https://github.com/ganeshprabhu2005/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/146162190/9911b12a-b883-4332-aa6f-d76f4d1be033)
+
  
- 
- 
+ ![310940475-55dca8d0-7ece-4c96-a1b5-7ad65564ef19](https://github.com/ganeshprabhu2005/EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR/assets/146162190/4f0eff8d-016c-4a8b-92b3-51dd4078038a)
+
 ## Result :
 Interfacing a  IR SENSOR and interrupt is generated using external interrupt mode , visualized on serial port 
